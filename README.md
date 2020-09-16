@@ -1,0 +1,2 @@
+# QPserverMinecraft
+linux => ./start.sh
